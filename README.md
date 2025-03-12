@@ -56,6 +56,8 @@ The final stage of the pipeline involves a **multimodal Large Language Model (LL
 To enhance efficiency and performance, two versions of the pipeline were designed and tested. One version incorporated BLIP3 for caption generation before sending the data to the LLM, while the other version relied solely on the LLM for product link retrieval. The comparison between these versions provided insights into optimizing system performance while maintaining high accuracy in retrieving relevant product purchase links.
 
 Framework of interactive advertising system 
+
+
 <img width="438" alt="Image" src="https://github.com/user-attachments/assets/5625a935-5b34-42a8-a449-a60aaf3acfc6" />
 
 ## Performance Metrics
