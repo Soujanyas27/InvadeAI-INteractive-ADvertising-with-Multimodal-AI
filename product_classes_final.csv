@@ -1,0 +1,88 @@
+LabelName,DisplayName,YOLO_class_name
+/m/09j5n,Footwear,None
+/m/01xyhv,Suit,None
+/m/0jyfg,Glasses,None
+/m/01d40f,Dress,None
+/m/0fly7,Jeans,None
+/m/0h9mv,Tire,None
+/m/0463sg,Fashion accessory,None
+/m/0hg7b,Microphone,None
+/m/0342h,Guitar,None
+/m/0138tl,Toy,None
+/m/01n5jq,Poster,None
+/m/0271t,Drink,None
+/m/01bqk0,Bicycle wheel,None
+/m/0c_jw,Furniture,None
+/m/02dgv,Door,None
+/m/032b3c,Jacket,None
+/m/052lwg6,Baked goods,None
+/m/01y9k5,Desk,None
+/m/02dl1y,Hat,None
+/m/03120,Flag,None
+/m/01bfm9,Shorts,None
+/m/04szw,Musical instrument,None
+/m/01n4qj,Shirt,None
+/m/0dv5r,Camera,None
+/m/01599,Beer,None
+None,None,bicycle
+None,None,car
+None,None,motorcycle
+None,None,truck
+None,None,boat
+None,None,bench
+None,None,backpack
+None,None,umbrella
+None,None,handbag
+None,None,tie
+None,None,suitcase
+None,None,frisbee
+None,None,skis
+None,None,snowboard
+None,None,sports ball
+None,None,kite
+None,None,baseball bat
+None,None,baseball glove
+None,None,skateboard
+None,None,surfboard
+None,None,tennis racket
+None,None,bottle
+None,None,wine glass
+None,None,cup
+None,None,fork
+None,None,knife
+None,None,spoon
+None,None,bowl
+None,None,banana
+None,None,apple
+None,None,sandwich
+None,None,orange
+None,None,broccoli
+None,None,carrot
+None,None,hot dog
+None,None,pizza
+None,None,donut
+None,None,cake
+None,None,chair
+None,None,couch
+None,None,potted plant
+None,None,bed
+None,None,dining table
+None,None,toilet
+None,None,tv
+None,None,laptop
+None,None,mouse
+None,None,remote
+None,None,keyboard
+None,None,cell phone
+None,None,microwave
+None,None,oven
+None,None,toaster
+None,None,sink
+None,None,refrigerator
+None,None,book
+None,None,clock
+None,None,vase
+None,None,scissors
+None,None,teddy bear
+None,None,hair drier
+None,None,toothbrush
